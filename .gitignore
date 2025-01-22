@@ -135,3 +135,7 @@ dmypy.json
 .DS_Store
 
 tmp
+logs_diffusion/training_ipo_2025_01_22__14_47_03/events.out.tfevents.1737557223.b3bbbfc56cb4.1.0
+*.pyc
+logs_diffusion/training_ipo_2025_01_22__14_49_22/events.out.tfevents.1737557362.c013caf88559.1.0
+logs_diffusion/*
